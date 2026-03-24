@@ -15,7 +15,8 @@ Open a public/free AI chat, e.g.:
 3. add the Results, using either:
     * [Results](#Results-as-Text) text in the section below, or 
     * attach the [Results.csv](./Demo-Data/Results.csv) file in the [Demo Data](./Demo-Data/) folder
- 
+
+**Prompt 1:**
 ```
 Screen these results against the NEPM
 ```
@@ -31,9 +32,12 @@ Screen these results against the NEPM
     * [Criteria](#Criteria-as-Text) text in the section below, or 
     * attach the [Criteria.csv](./Demo-Data/Criteria.csv) file in the [Demo Data](./Demo-Data/) folder
     
-
+**Prompt 2:**
 ```
-The attached tables are chemical 'results' and 'criteria'. The criteria join to the results using the 'Chem Name' column in both tables. Write me an Excel formula that compares column D in the results table against the HIL-A criteria values in the 'Action Level' column in the criteria table. Convert the '<' results to half when comparing values to criteria
+The attached tables are chemical 'results' and 'criteria'.
+The criteria join to the results using the 'Chem Name' column in both tables.
+Write me an Excel formula that compares the 'Result' column in the results table against the HIL-A criteria values in the 'Action Level' column in the criteria table.
+Convert the '<' results to half when comparing values to criteria
 ```
 
 
