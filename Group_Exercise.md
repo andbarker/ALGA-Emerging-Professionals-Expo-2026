@@ -1,12 +1,16 @@
 # Group Exercise: 5 minutes to Spot the AI Errors
-
-1) Form a group at each table or with 3-4 with people near you
-2) Review the AI-generated report excerpt
-3) 5 minutes to find as many errors as possible
-4) Errors include wrong criteria, fabricated references, hallucinated details, logical inconsistencies
-5) Group with the most errors found wins bragging rights
-
-## AI report excert with errors: 
+ 
+Supporting material for Andrew Barker's session: AI: Friend or Foe? — ALGA Emerging Professionals Expo, 26 March 2026.
+ 
+## Instructions
+ 
+1. Form a group at each table or with 3-4 people near you
+2. Review the AI-generated report excerpt below
+3. 5 minutes to find as many errors as possible
+4. Errors include: wrong criteria, fabricated references, hallucinated details, logical inconsistencies
+5. Group with the most errors found wins bragging rights
+ 
+## AI report excerpt with errors
 
 A Detailed Site Investigation (DSI) was undertaken for the subject site located in Victoria in accordance with the National Environment Protection (Assessment of Site Contamination) Measure 2013 (as amended 2022). 
 
